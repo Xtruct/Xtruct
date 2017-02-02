@@ -1,4 +1,4 @@
-![Xtruct logo](http://i.imgur.com/ESj3Azm.png)
+![Xtruct logo](https://cdn.discordapp.com/attachments/276347001980059659/276752307020890113/xtruct-logo2-1.png)
 
 Do you feel disapointed about Construct 2/3 ?
 We have a good deal for you.
