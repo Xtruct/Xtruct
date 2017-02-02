@@ -13,4 +13,4 @@ There is a lot of work to do to enable this engine to show its full potential, s
 
 ##You're a regular user
 Feel free to ask questions, report bugs or even submit us your feature requests.
-Also just saying *thanks* is very motivating
+Also just saying *thanks* is very motivating. Don't forget to give us *a watch* :eye: and *a star* :star:
