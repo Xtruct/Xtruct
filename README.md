@@ -4,8 +4,11 @@ Do you feel disappointed about Construct 2/3 ?
 We have a good deal for you.
 
 Do you remember the time of Construct Classic ?
-
 Guess what, we're taking the best out of these 3 softwares and we are making it better !
+
+##What is Xtruct?
+Xtruct is an Electron-based game editor powered by phaser
+and it will hopefully export to web, mobile and desktops.
 
 ##You're a developer
 All you have to do is to grab your pants from the floor and step right in the development process to help us shape it
