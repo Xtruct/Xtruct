@@ -1,3 +1,6 @@
+# Wanted: new maintainer
+### I'm seeking for a new mainteiner for xtruct, don't miss your chance, apply now.
+
 ![Xtruct logo](https://cdn.discordapp.com/attachments/276347001980059659/276752307020890113/xtruct-logo2-1.png)
 
 Do you feel disappointed about Construct 2/3 ?
